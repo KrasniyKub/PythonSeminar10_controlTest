@@ -30,4 +30,4 @@ def one_hot(data_frame):
 
 res = one_hot(data)
 
-print(res)
+res.head()
